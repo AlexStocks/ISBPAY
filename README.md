@@ -12,7 +12,7 @@ ISBDaily 自 20170525 发布以来，不管节假日，从无间断，故受众�
 
 ## Payment
 
-<center> ![阿弥托福，于雨谢过](pay/wa.png "阿弥托福，于雨谢过") </center>
+![阿弥托福，于雨谢过](pay/wa.png "阿弥托福，于雨谢过")
 
 ## LICENCE
 
